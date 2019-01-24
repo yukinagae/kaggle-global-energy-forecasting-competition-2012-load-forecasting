@@ -8,18 +8,18 @@ In this repo, following how the winner proceeded the task, I will try to gain mo
 
 ## Table of Contents
 
-* [Motivation](#motivation)
-* [File descriptions](#file-descriptions)
-* [Installation](#installation)
-* [Dependencies](#dependencies)
-* [Results](#results)
-* [References](#references)
-
+- [Kaggle: Global Energy Forecasting Competition 2012 - Load Forecasting](#kaggle-global-energy-forecasting-competition-2012---load-forecasting)
+  - [Table of Contents](#table-of-contents)
+  - [Motivation](#motivation)
+  - [File descriptions](#file-descriptions)
+  - [Installation](#installation)
+  - [Dependencies](#dependencies)
+  - [Results](#results)
+  - [References](#references)
 
 ## Motivation
 
 TODO
-
 
 ## File descriptions
 
@@ -33,13 +33,11 @@ TODO
 
 TODO
 
-##  Results
+## Results
 
 TODO
 
-
 ## References
 
-* Competiton Details: [Global Energy Forecasting Competition 2012 - Load Forecasting](www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
-* Solution: [A gradient boosting approach to the Kaggle load forecasting competition](https://robjhyndman.com/papers/kaggle-competition.pdf)
-
+- Competiton Details: [Global Energy Forecasting Competition 2012 - Load Forecasting](www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
+- Solution: [A gradient boosting approach to the Kaggle load forecasting competition](https://robjhyndman.com/papers/kaggle-competition.pdf)
