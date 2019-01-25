@@ -103,5 +103,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# input data
-input/*.csv
+# data
+data/raw/*.csv
