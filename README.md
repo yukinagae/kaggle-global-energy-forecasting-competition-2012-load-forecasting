@@ -1,4 +1,4 @@
-# Kaggle: [Global Energy Forecasting Competition 2012 - Load Forecasting](www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
+# Kaggle: [Global Energy Forecasting Competition 2012 - Load Forecasting](https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
 
 > A hierarchical load forecasting problem: backcasting and forecasting hourly loads (in kW) for a US utility with 20 zones.
 
@@ -84,5 +84,5 @@ TODO
 
 ## References
 
-- Competiton Details: [Global Energy Forecasting Competition 2012 - Load Forecasting](www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
+- Competiton Details: [Global Energy Forecasting Competition 2012 - Load Forecasting](https://www.kaggle.com/c/global-energy-forecasting-competition-2012-load-forecasting)
 - Solution: [A gradient boosting approach to the Kaggle load forecasting competition](https://robjhyndman.com/papers/kaggle-competition.pdf)
